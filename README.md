@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zim
 
-<!--
-**Zaber3090/Zaber3090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm passionate about programming, technology, and cybersecurity. I'm currently improving my Python skills and exploring network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Learning Python and software development
+- Interested in cybersecurity and network security
+- Exploring practical projects to improve my skills
+- Building my GitHub portfolio one project at a time
+
+## Skills & Technologies
+
+- **Languages:** Python, HTML, PHP
+- **Interests:** Cybersecurity, Network Security, Automation
+- **Tools:** Git, GitHub
+
+## Projects
+
+My projects will be added here as I build and document them.
+
+## Goals
+
+- Build practical programming projects
+- Learn cybersecurity fundamentals
+- Improve my coding and problem-solving skills
+
+---
+
+*Always learning, building, and improving.*
